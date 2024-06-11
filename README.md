@@ -4,7 +4,7 @@
 #### Leonardo Pedro dos Anjos | RA: 12523122745
 
 # **Jogo Jokenpo em Socket** 🪨 📜 ✂️
-Venha jogar o clássico Jokenpo "Pedra, Papel e Tesoura" utilizando comunicação via sockets para jogar em diferentes dispositivos na mesma rede.
+Venha jogar o clássico Jokenpo "Pedra, Papel e Tesoura" utilizando comunicação via sockets para jogar em diferentes dispositivos na mesma rede, além de conseguir jogar contra o computador se preferir.
 
 ### Dentro deste Sistema, você irá encontrar
 
